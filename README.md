@@ -14,12 +14,4 @@
 
 **[RARE Forever](https://rare-forever.vercel.app)** — The RARE merch store.
 
----
-
-### Tech
-
-TypeScript · Python · R · Next.js · PostgreSQL · Vercel
-
----
-
 <sub>Developed for [RARE Analytics](https://www.rareanalytics.co)</sub>
