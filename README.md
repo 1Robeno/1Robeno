@@ -2,24 +2,30 @@
 
 **Art & Science** — Kingston, Jamaica
 
-I build analytical tools and web applications at **RARE Analytics**, focused on making data accessible and useful for everyday decisions.
+I run **[RARE Analytics](https://www.rareanalytics.co)**, a data analysis agency that turns raw data into strategic business insights through custom dashboards, automated reporting, and predictive analytics.
 
 ---
 
-### What I Work On
+### Live Projects
 
-**[RARE Signal](https://rare-signal.vercel.app)** — A stock market analytics platform tracking listed companies across sectors like Finance, Manufacturing, Retail, and more. Provides market data, sector performance breakdowns, and historical trend analysis for retail investors.
+**[RARE Analytics](https://www.rareanalytics.co)** — The main agency site. Data analysis services including live dashboards, automated reporting, and predictive analytics for businesses.
 
-**[RARE Gallery](https://gallery.rareanalytics.co)** — The hub for all RARE Analytics tools. A curated collection of dashboards, calculators, and web apps built to bring value to users exploring real estate, finance, and investment data.
+**[RARE Signal](https://rare-signal.vercel.app)** — Stock market analytics platform for retail investors. Tracks listed companies across sectors with market data, performance breakdowns, and historical trend analysis.
 
-**[Financial Calculators](https://rare-demo-calculators.vercel.app)** — Interactive mortgage and car loan calculators with detailed payment breakdowns, amortization schedules, and charts to help plan major purchases.
+**[RARE Gallery](https://gallery.rareanalytics.co)** — Hub for all RARE tools and web apps — dashboards, calculators, and data visualizations in one place.
+
+**[Loan Calculators](https://calculators.rareanalytics.co)** — Interactive mortgage and car loan calculators with amortization schedules, payment breakdowns, and charts.
+
+**[Salary Calculator](https://salary-calculator.rareanalytics.co)** — Jamaican salary calculator that breaks down PAYE, Education Tax, NIS, and NHT deductions to show take-home pay.
+
+**[RARE Forever](https://rare-forever.vercel.app)** — The RARE merch store.
 
 ---
 
 ### Tech
 
-TypeScript · Python · R · Next.js · Vercel
+TypeScript · Python · R · Next.js · PostgreSQL · Vercel
 
 ---
 
-<sub>Developed by [RARE Analytics](https://gallery.rareanalytics.co)</sub>
+<sub>Developed by [RARE Analytics](https://www.rareanalytics.co)</sub>
