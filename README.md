@@ -1,10 +1,4 @@
-# 🧮 RARE Analytics
-
-> **Art & Science** — 📍 Kingston, Jamaica
-
----
-
-## 🚀 Live Projects
+### 🚀 Live Projects
 
 ### 📈 [RARE Signal](https://rare-signal.vercel.app)
 Stock market analytics platform for retail investors. Tracks listed companies across sectors with market data, performance breakdowns, and historical trend analysis.
