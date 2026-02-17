@@ -1,10 +1,4 @@
-# Hey, I'm Robeno
-
 **Art & Science** — Kingston, Jamaica
-
-I run **[RARE Analytics](https://www.rareanalytics.co)**, a data analysis agency that turns raw data into strategic business insights through custom dashboards, automated reporting, and predictive analytics.
-
----
 
 ### Live Projects
 
@@ -28,4 +22,4 @@ TypeScript · Python · R · Next.js · PostgreSQL · Vercel
 
 ---
 
-<sub>Developed by [RARE Analytics](https://www.rareanalytics.co)</sub>
+<sub>Developed for [RARE Analytics](https://www.rareanalytics.co)</sub>
