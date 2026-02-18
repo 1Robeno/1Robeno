@@ -15,7 +15,6 @@ Jamaican salary calculator that breaks down PAYE, Education Tax, NIS, and NHT de
 ### 🏘️ [Real Estate Analysis (Jamaica)](https://lookerstudio.google.com/u/0/reporting/82899cb4-92db-4751-ad59-6818315552fa/page/p_90yoiz9v2c)
 Interactive dashboard of Jamaica's real estate market with multiple property types and price trends for the Kingston & St. Andrew region.
 
-
 ### 🛍️ [RARE Forever](https://rare-forever.vercel.app)
 The RARE merch store.
 
