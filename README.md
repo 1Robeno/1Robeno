@@ -1,6 +1,6 @@
 ### 🚀 Live Projects
 
-### 📊 [RARE Signal](https://rare-signal.vercel.app)
+### 📊 [Signal](https://signal.rareanalytics.co)
 Stock market analytics platform for retail investors. Tracks listed companies across sectors with market data, performance breakdowns, and historical trend analysis.
 
 ### 🎯 [RARE Gallery](https://gallery.rareanalytics.co)
@@ -11,6 +11,10 @@ Interactive mortgage and car loan calculators with amortization schedules, payme
 
 ### 💵 [Salary Calculator (Jamaica)](https://salary-calculator.rareanalytics.co)
 Jamaican salary calculator that breaks down PAYE, Education Tax, NIS, and NHT deductions to show take-home pay.
+
+### 🏘️ [Real Estate Analysis (Jamaica)](https://lookerstudio.google.com/u/0/reporting/82899cb4-92db-4751-ad59-6818315552fa/page/p_90yoiz9v2c)
+Interactive dashboard of Jamaica's real estate market with multiple property types and price trends for the Kingston & St. Andrew region.
+
 
 ### 🛍️ [RARE Forever](https://rare-forever.vercel.app)
 The RARE merch store.
