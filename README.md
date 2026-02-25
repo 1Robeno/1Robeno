@@ -1,6 +1,6 @@
 ### 🚀 Live Projects
 
-### 📊 [Signal](https://signal.rareanalytics.co)
+### 📊 [Signal](https://raresignal.app)
 Stock market analytics platform for retail investors. Tracks listed companies across sectors with market data, performance breakdowns, and historical trend analysis.
 
 ### 🎯 [RARE Gallery](https://gallery.rareanalytics.co)
